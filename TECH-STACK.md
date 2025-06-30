@@ -75,7 +75,7 @@ This document outlines the core tools, services, and technologies used to build 
 | Framer Motion           | Smooth animations and transitions |
 | Storybook               | Visual component documentation    |
 | Postman                 | API testing and exploration       |
-| Vercel Analytics / Plausible | Track real usage            |
+| Vercel Analytics / Plausible | Track real usage             |
 
 ---
 
